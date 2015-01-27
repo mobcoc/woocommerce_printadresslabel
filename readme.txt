@@ -1,6 +1,6 @@
-=== WooCommerce Print Invoice & Delivery Note ===
+=== WooCommerce Print Adress Label Note ===
 
-Contributors: piffpaffpuff
+Contributors: mobcoc
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=K2JKYEASQBBSQ&lc=US&item_name=WooCommerce%20Print%20Invoice%20%26%20Delivery%20Note&item_number=WCDN&amount=20%2e00&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHostedGuest
 Tags: delivery note, packing slip, invoice, delivery, shipping, print, order, woocommerce, woothemes, shop
 Requires at least: 3.8
@@ -9,19 +9,19 @@ Stable tag: trunk
 License: GPLv3 or later
 License URI: http://www.opensource.org/licenses/gpl-license.php
 
-Print invoices and delivery notes for WooCommerce orders.  
+Print Adress Label for WooCommerce orders.  
 
 == Description ==
 
-You can print out invoices and delivery notes for the [WooCommerce](http://wordpress.org/plugins/woocommerce/) orders. You can edit the Company/Shop name, Company/Shop postal address and also add personal notes, conditions/policies (like a refund policy) and a footer imprint.
+You can Print Adress Label for the [WooCommerce](http://wordpress.org/plugins/woocommerce/) orders. You can edit the Company/Shop name, Company/Shop postal address and also add personal notes, conditions/policies (like a refund policy) and a footer imprint.
 
 The plugin adds a new side panel on the order page to allow shop administrators to print out the invoice or delivery note. Registered customers can also can also print their order with a button that is added to the order screen.
 
 = Features =
 
-* Print invoices and delivery notes via the side panel on the "Order Edit" page
-* Quickly print invoices and delivery notes on the "Orders" page
-* Bulk print invoices and delivery notes
+* Print Adress Label via the side panel on the "Order Edit" page
+* Quickly Print Adress Label on the "Orders" page
+* Bulk Print Adress Label
 * Customers can print an invoice on the "My Account" and "Order Details" page
 * Add a company address, a logo and many other information to the invoice and delivery note
 * Intelligent invoice and delivery note template system with hooks and functions.php support  

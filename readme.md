@@ -1,6 +1,6 @@
-# WooCommerce Print Invoice & Delivery Note
+# WooCommerce Print Adress Label
 
-This is the WooCommerce Print Invoice & Delivery Note repository on GitHub. Here you can browse the source, look at open issues and keep track of development.
+This is the WooCommerce Print Adress Label repository on GitHub. Here you can browse the source, look at open issues and keep track of development.
 
 ## Support
 
